@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+    width: 100%;
+    font-size: 2rem;
+  }
+  
+  .divData{
+    display: flex;
+    flex-direction: row;
+   
+  }
+  
+
+  .green{
+    background: green;
+  }
+  .red{
+    background-color: red
+  }
+ .btn{
+    height: 34px;
+    margin-top: 33px;
+    margin-left: 22px;
+ }
