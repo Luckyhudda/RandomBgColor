@@ -1,5 +1,5 @@
-let box =document.querySelector('#box');
-let url = "https://jsonplaceholder.typicode.com/todos"
+const box =document.querySelector('#box');
+const url = "https://jsonplaceholder.typicode.com/todos"
 
 function finalResult(data) {
   data.forEach((el)=>{
